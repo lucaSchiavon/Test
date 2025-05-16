@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4IWEwpxiZ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\l.schiavon\\Desktop\\Test\\TestGit\\Test\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l.schiavon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

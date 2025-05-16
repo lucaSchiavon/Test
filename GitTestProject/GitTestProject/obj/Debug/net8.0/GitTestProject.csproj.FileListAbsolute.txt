@@ -1,0 +1,15 @@
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\bin\Debug\net8.0\GitTestProject.exe
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\bin\Debug\net8.0\GitTestProject.deps.json
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\bin\Debug\net8.0\GitTestProject.runtimeconfig.json
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\bin\Debug\net8.0\GitTestProject.dll
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\bin\Debug\net8.0\GitTestProject.pdb
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.AssemblyInfoInputs.cache
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.AssemblyInfo.cs
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.sourcelink.json
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.dll
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\refint\GitTestProject.dll
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.pdb
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\GitTestProject.genruntimeconfig.cache
+C:\Users\l.schiavon\Desktop\Test\TestGit\Test\GitTestProject\GitTestProject\obj\Debug\net8.0\ref\GitTestProject.dll
